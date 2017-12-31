@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><exam>
+
+	<student examid="444" idcard="333">
+		<name>李四</name>
+		<location>北京</location>
+		<grade>97</grade>
+	</student>
+	<student examid="6248" idcard="7788">
+		<name>我是你大爷</name>
+		<location>湖北</location>
+		<grade>98.0</grade>
+	</student>
+	<student examid="20170416" idcard="421124199704292045">
+		<name>陈濛</name>
+		<location>湖北</location>
+		<grade>98.0</grade>
+	</student>
+	
+</exam>
